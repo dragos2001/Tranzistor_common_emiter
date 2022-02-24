@@ -1,0 +1,1 @@
+# Tranzistor_common_emiter
